@@ -1,0 +1,1 @@
+# pytanie_na_rekrutacje_PostgreSQL
